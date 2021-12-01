@@ -1,0 +1,19 @@
+.footer-text{
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+}
+.footer{
+    background-color:#030f1f;
+    margin-top: 0;
+    background-size: cover;
+    height: 150px;
+}
+.footer-bar{
+    display: flex;
+    margin-left: 18%;
+    list-style: none;
+    margin-top: 0;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}

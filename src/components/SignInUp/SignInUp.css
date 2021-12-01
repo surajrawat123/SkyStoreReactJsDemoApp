@@ -1,0 +1,15 @@
+.link1{
+    color : white;
+    text-decoration: none;
+    font-size: 15px;
+}
+.nav-item1{
+    margin-right: 15px;
+}
+.nav-bar1{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 150px;
+    list-style: none;
+    padding-bottom: 10px;
+}

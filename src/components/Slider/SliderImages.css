@@ -1,0 +1,24 @@
+.image-item{
+    text-align: center;
+}
+
+.slick-active{
+    width: 20px;
+    height: 20px;
+}
+.slider-images{
+    padding-top: 2px;
+    margin-left: 12%;
+    width: 1440px;
+    height: 620px;
+}
+.image-movie{
+    height: 620px;
+}
+button .slick-next{
+    top:40%;
+    right: 30%;
+}
+button.slick-arrow{
+    display: none !important;
+}

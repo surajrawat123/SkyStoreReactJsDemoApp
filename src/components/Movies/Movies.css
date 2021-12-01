@@ -1,0 +1,28 @@
+.heading{
+    margin-top: 40px;
+    margin-left: 3%;
+    font-size: 26px;
+}
+.movie{
+    display: grid;
+    margin-right: 20%;
+    gap: 25px;
+    grid-template-columns: auto auto auto auto auto auto auto;
+}
+.movie-item{
+    width: 230px;
+    height: 350px;
+    margin-bottom: 45px;
+}
+.title{
+    margin-top: 0;
+}
+.show-more{
+    width: 200px;
+    height: 50px;
+    margin-left: 40%;
+    margin-bottom: 30px;
+    background-color: rgba(40,115,197,.8);
+    color: white;
+    font-size: 20px;
+}
